@@ -1,0 +1,25 @@
+Clamp Blueprints
+Adjust clamps to control how far he shoots
+
+Control how gravity affects him with Override Gravity Z
+
+Yellow mat makes bounce
+
+
+OG VALUES
+X Velocity Multiplier: 1.35
+
+Y Velocity Multiplier: 1.4
+
+X and Y Clamps: Min -1200.0 / Max: 1200.0
+
+Override Gravity Z: 0
+
+CHANGES
+X Velocity Multiplier: 1.35
+
+Y Velocity Multiplier: 1.4
+
+X and Y Clamps: Min -1200.0 / Max: 940.0
+
+Override Gravity Z: -1000
