@@ -2,15 +2,17 @@ CONTROLS
 Left Click - Hold and drag to fling player character
 
 FEATURES
-- Fleck's movement
-- Fleck can grow to Size 2
-- 2 enemies: Nub (Can be detroyed with Size 2 Fleck) and Flub (flies back and forth)
-- Basic surface types: Trash / Rubber / Wood
-- Tire pads
-- 10 levels
-- Save system / It tracks how many stars you've gotten on each level.
-- Adventure Mode: Go fast as you can to the finish line while collecting Shinies! 
-- Golf Mode: Make tactical flings to finish levels with as few moves as possible!
+1) Fleck's movement
+2) Fleck can grow to Size 2 and 3
+3) 2 enemies: Nub (Can be detroyed with Size 2 Fleck) 
+   and Flub (flies back and forth, destroy them at Size 3))
+4) Basic surface types: Trash / Rubber / Wood
+5) Tire pads
+6) 10 levels
+7) Save system / It tracks how many stars you've gotten on each level.
+8) Adventure Mode: Go fast as you can to the finish line while collecting Shinies! 
+9) Mini-Golf Mode: Take your time and make tactical flings to finish levels 
+   with as few moves as possible!
 
 DESCRIPTION
 Navigate through 10 complete levels of Fleck through 2 game modes.
